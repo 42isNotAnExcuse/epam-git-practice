@@ -1,7 +1,7 @@
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
+mod - Added firstFile.txt to git_1
+mod - Added firstFile.txt to git_1
+mod2 - Added firstFile.txt to git_1
+mod2 - Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
