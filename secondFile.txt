@@ -1,5 +1,9 @@
 upd2 - Added secondFile.txt to git_1
 upd2 - Added secondFile.txt to git_1
+upd - Added secondFile.txt to git_1
+upd - Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
